@@ -1,4 +1,4 @@
-# 🚀 Running Stable Diffusion API on Google Colab
+# 🚀 Running Stable Diffusion API from Google Colab
 
 ## Overview
 
